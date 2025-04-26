@@ -1,0 +1,41 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2016-08-15",
+    "period_of_report": "2016-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001140361-16-076357-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000114036116076357/0001140361-16-076357.txt",
+    "filename": "1649339_13FHR_2016_0001140361-16-076357.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 10382,
+            "shares": 15000
+        },
+        "AMGEN INC": {
+            "values": 6086,
+            "shares": 40000
+        },
+        "HCA HOLDINGS INC": {
+            "values": 7701,
+            "shares": 100000
+        },
+        "NEOPHOTONICS CORP": {
+            "values": 2859,
+            "shares": 300000
+        },
+        "NEXPOINT RESIDENTIAL TR INC": {
+            "values": 11100,
+            "shares": 609905
+        },
+        "THERAVANCE BIOPHARMA INC": {
+            "values": 7374,
+            "shares": 325000
+        }
+    }
+}

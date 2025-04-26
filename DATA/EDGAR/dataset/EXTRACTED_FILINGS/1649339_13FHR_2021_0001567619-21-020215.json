@@ -1,0 +1,41 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2021-11-15",
+    "period_of_report": "2021-09-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-21-020215-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761921020215/0001567619-21-020215.txt",
+    "filename": "1649339_13FHR_2021_0001567619-21-020215.txt",
+    "data": {
+        "CORECIVIC INC": {
+            "values": 3668,
+            "shares": 412126
+        },
+        "CVS HEALTH CORP": {
+            "values": 16972,
+            "shares": 200000
+        },
+        "GEO GROUP INC NEW": {
+            "values": 8656,
+            "shares": 1158820
+        },
+        "LOCKHEED MARTIN CORP": {
+            "values": 10353,
+            "shares": 30000
+        },
+        "NOW INC": {
+            "values": 1148,
+            "shares": 150000
+        },
+        "SCYNEXIS INC": {
+            "values": 922,
+            "shares": 174030
+        }
+    }
+}

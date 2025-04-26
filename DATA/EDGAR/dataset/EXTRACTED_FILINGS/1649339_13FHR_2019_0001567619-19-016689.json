@@ -1,0 +1,57 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2019-08-14",
+    "period_of_report": "2019-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-19-016689-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761919016689/0001567619-19-016689.txt",
+    "filename": "1649339_13FHR_2019_0001567619-19-016689.txt",
+    "data": {
+        "ALIBABA GROUP HLDG LTD": {
+            "values": 8473,
+            "shares": 50000
+        },
+        "ALPHABET INC": {
+            "values": 9728,
+            "shares": 9000
+        },
+        "CARDINAL HEALTH INC": {
+            "values": 9420,
+            "shares": 200000
+        },
+        "CLEVELAND CLIFFS INC": {
+            "values": 11737,
+            "shares": 1100000
+        },
+        "DISNEY WALT CO": {
+            "values": 8378,
+            "shares": 60000
+        },
+        "FEDEX CORP": {
+            "values": 9851,
+            "shares": 60000
+        },
+        "GREENSKY INC": {
+            "values": 7374,
+            "shares": 600000
+        },
+        "SPORTSMANS WHSE HLDGS INC": {
+            "values": 6037,
+            "shares": 1597011
+        },
+        "TAILORED BRANDS INC": {
+            "values": 10675,
+            "shares": 1850000
+        },
+        "WESTERN DIGITAL CORP": {
+            "values": 11888,
+            "shares": 250000
+        }
+    }
+}

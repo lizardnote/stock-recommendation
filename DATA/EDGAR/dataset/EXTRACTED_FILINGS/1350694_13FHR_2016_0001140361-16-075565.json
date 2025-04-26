@@ -1,0 +1,1365 @@
+{
+    "cik": "1350694",
+    "company": "Bridgewater Associates, LP",
+    "filing_type": "13F-HR",
+    "filing_date": "2016-08-10",
+    "period_of_report": "2016-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CT",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1350694/0001140361-16-075565-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1350694/000114036116075565/0001140361-16-075565.txt",
+    "filename": "1350694_13FHR_2016_0001140361-16-075565.txt",
+    "data": {
+        "ABBOTT LABS": {
+            "values": 4092,
+            "shares": 104100
+        },
+        "ACCENTURE PLC IRELAND": {
+            "values": 2526,
+            "shares": 22300
+        },
+        "ACTIVISION BLIZZARD INC": {
+            "values": 3706,
+            "shares": 93510
+        },
+        "ADOBE SYS INC": {
+            "values": 6341,
+            "shares": 66200
+        },
+        "AFFILIATED MANAGERS GROUP": {
+            "values": 2083,
+            "shares": 14800
+        },
+        "AGCO CORP": {
+            "values": 891,
+            "shares": 18900
+        },
+        "AGNICO EAGLE MINES LTD": {
+            "values": 24558,
+            "shares": 459027
+        },
+        "AIR PRODS &amp; CHEMS INC": {
+            "values": 2344,
+            "shares": 16500
+        },
+        "AKAMAI TECHNOLOGIES INC": {
+            "values": 2304,
+            "shares": 41200
+        },
+        "ALASKA AIR GROUP INC": {
+            "values": 1976,
+            "shares": 33900
+        },
+        "ALBEMARLE CORP": {
+            "values": 492,
+            "shares": 6200
+        },
+        "ALLIANCE DATA SYSTEMS CORP": {
+            "values": 32768,
+            "shares": 167251
+        },
+        "ALPHABET INC": {
+            "values": 4292,
+            "shares": 6100
+        },
+        "AMC NETWORKS INC": {
+            "values": 1313,
+            "shares": 21728
+        },
+        "AMERICAN EXPRESS CO": {
+            "values": 4928,
+            "shares": 81100
+        },
+        "AMERICAN TOWER CORP NEW": {
+            "values": 7930,
+            "shares": 69800
+        },
+        "AMERIPRISE FINL INC": {
+            "values": 2354,
+            "shares": 26200
+        },
+        "AMERISOURCEBERGEN CORP": {
+            "values": 25310,
+            "shares": 319092
+        },
+        "AMETEK INC NEW": {
+            "values": 781,
+            "shares": 16900
+        },
+        "AMGEN INC": {
+            "values": 5827,
+            "shares": 38300
+        },
+        "AMPHENOL CORP NEW": {
+            "values": 533,
+            "shares": 9300
+        },
+        "ANADARKO PETE CORP": {
+            "values": 7954,
+            "shares": 149380
+        },
+        "ANALOG DEVICES INC": {
+            "values": 3811,
+            "shares": 67281
+        },
+        "ANGLOGOLD ASHANTI LTD": {
+            "values": 5136,
+            "shares": 284378
+        },
+        "ANNALY CAP MGMT INC": {
+            "values": 164,
+            "shares": 14800
+        },
+        "ANSYS INC": {
+            "values": 254,
+            "shares": 2800
+        },
+        "ANTHEM INC": {
+            "values": 5648,
+            "shares": 43000
+        },
+        "APACHE CORP": {
+            "values": 6174,
+            "shares": 110900
+        },
+        "APPLE INC": {
+            "values": 11587,
+            "shares": 121200
+        },
+        "APPLIED MATLS INC": {
+            "values": 11256,
+            "shares": 469583
+        },
+        "ARCHER DANIELS MIDLAND CO": {
+            "values": 2573,
+            "shares": 60000
+        },
+        "ARROW ELECTRS INC": {
+            "values": 1028,
+            "shares": 16600
+        },
+        "ASHLAND INC NEW": {
+            "values": 482,
+            "shares": 4200
+        },
+        "ASSURANT INC": {
+            "values": 280,
+            "shares": 3246
+        },
+        "AVERY DENNISON CORP": {
+            "values": 650,
+            "shares": 8700
+        },
+        "B2GOLD CORP": {
+            "values": 1680,
+            "shares": 673200
+        },
+        "BARD C R INC": {
+            "values": 4895,
+            "shares": 20815
+        },
+        "BARRICK GOLD CORP": {
+            "values": 45112,
+            "shares": 2112956
+        },
+        "BECTON DICKINSON &amp; CO": {
+            "values": 634,
+            "shares": 3737
+        },
+        "BED BATH &amp; BEYOND INC": {
+            "values": 19687,
+            "shares": 455501
+        },
+        "BHP BILLITON LTD": {
+            "values": 15763,
+            "shares": 551911
+        },
+        "BIOGEN INC": {
+            "values": 12444,
+            "shares": 51461
+        },
+        "BOEING CO": {
+            "values": 7462,
+            "shares": 57456
+        },
+        "BORGWARNER INC": {
+            "values": 5566,
+            "shares": 188546
+        },
+        "BOSTON PROPERTIES INC": {
+            "values": 541,
+            "shares": 4100
+        },
+        "BOSTON SCIENTIFIC CORP": {
+            "values": 226,
+            "shares": 9684
+        },
+        "BP PLC": {
+            "values": 16114,
+            "shares": 453800
+        },
+        "BRISTOL MYERS SQUIBB CO": {
+            "values": 13714,
+            "shares": 186454
+        },
+        "BROWN FORMAN CORP": {
+            "values": 619,
+            "shares": 6200
+        },
+        "BUNGE LIMITED": {
+            "values": 538,
+            "shares": 9100
+        },
+        "C H ROBINSON WORLDWIDE INC": {
+            "values": 898,
+            "shares": 12100
+        },
+        "CABOT OIL &amp; GAS CORP": {
+            "values": 3557,
+            "shares": 138200
+        },
+        "CAMECO CORP": {
+            "values": 1387,
+            "shares": 126900
+        },
+        "CAMPBELL SOUP CO": {
+            "values": 3600,
+            "shares": 54114
+        },
+        "CANADIAN NAT RES LTD": {
+            "values": 16565,
+            "shares": 539719
+        },
+        "CAPITAL ONE FINL CORP": {
+            "values": 4668,
+            "shares": 73500
+        },
+        "CARDINAL HEALTH INC": {
+            "values": 11201,
+            "shares": 143581
+        },
+        "CARNIVAL CORP": {
+            "values": 5959,
+            "shares": 134811
+        },
+        "CATERPILLAR INC DEL": {
+            "values": 280,
+            "shares": 3700
+        },
+        "CBRE GROUP INC": {
+            "values": 919,
+            "shares": 34700
+        },
+        "CELANESE CORP DEL": {
+            "values": 1407,
+            "shares": 21500
+        },
+        "CELGENE CORP": {
+            "values": 720,
+            "shares": 7300
+        },
+        "CENOVUS ENERGY INC": {
+            "values": 5754,
+            "shares": 418200
+        },
+        "CENTURYLINK INC": {
+            "values": 18809,
+            "shares": 648370
+        },
+        "CERNER CORP": {
+            "values": 3164,
+            "shares": 54000
+        },
+        "CHARTER COMMUNICATIONS INC N": {
+            "values": 503,
+            "shares": 2200
+        },
+        "CHEVRON CORP NEW": {
+            "values": 15305,
+            "shares": 146000
+        },
+        "CHICOS FAS INC": {
+            "values": 127,
+            "shares": 11900
+        },
+        "CIMAREX ENERGY CO": {
+            "values": 3300,
+            "shares": 27659
+        },
+        "CINTAS CORP": {
+            "values": 314,
+            "shares": 3200
+        },
+        "CISCO SYS INC": {
+            "values": 10558,
+            "shares": 367990
+        },
+        "CIT GROUP INC": {
+            "values": 1353,
+            "shares": 42400
+        },
+        "CITRIX SYS INC": {
+            "values": 8997,
+            "shares": 112338
+        },
+        "COCA COLA CO": {
+            "values": 3672,
+            "shares": 81000
+        },
+        "COGNIZANT TECHNOLOGY SOLUTIO": {
+            "values": 6440,
+            "shares": 112500
+        },
+        "COLGATE PALMOLIVE CO": {
+            "values": 827,
+            "shares": 11300
+        },
+        "COMMVAULT SYSTEMS INC": {
+            "values": 250,
+            "shares": 5786
+        },
+        "CONCHO RES INC": {
+            "values": 4729,
+            "shares": 39653
+        },
+        "CONOCOPHILLIPS": {
+            "values": 14979,
+            "shares": 343544
+        },
+        "CONSTELLATION BRANDS INC": {
+            "values": 366,
+            "shares": 2213
+        },
+        "CONTINENTAL RESOURCES INC": {
+            "values": 4774,
+            "shares": 105460
+        },
+        "CORE LABORATORIES N V": {
+            "values": 867,
+            "shares": 7000
+        },
+        "CORNING INC": {
+            "values": 1956,
+            "shares": 95500
+        },
+        "CRESCENT PT ENERGY CORP": {
+            "values": 2406,
+            "shares": 153100
+        },
+        "CROWN HOLDINGS INC": {
+            "values": 1064,
+            "shares": 21000
+        },
+        "CSX CORP": {
+            "values": 1502,
+            "shares": 57600
+        },
+        "CULLEN FROST BANKERS INC": {
+            "values": 846,
+            "shares": 13272
+        },
+        "CUMMINS INC": {
+            "values": 3587,
+            "shares": 31900
+        },
+        "CVS HEALTH CORP": {
+            "values": 14332,
+            "shares": 149700
+        },
+        "D R HORTON INC": {
+            "values": 9089,
+            "shares": 288718
+        },
+        "DANAHER CORP DEL": {
+            "values": 2210,
+            "shares": 21885
+        },
+        "DARDEN RESTAURANTS INC": {
+            "values": 6154,
+            "shares": 97162
+        },
+        "DAVITA HEALTHCARE PARTNERS I": {
+            "values": 5874,
+            "shares": 75970
+        },
+        "DELTA AIR LINES INC DEL": {
+            "values": 3126,
+            "shares": 85800
+        },
+        "DENTSPLY SIRONA INC": {
+            "values": 372,
+            "shares": 6000
+        },
+        "DEVON ENERGY CORP NEW": {
+            "values": 5492,
+            "shares": 151500
+        },
+        "DICKS SPORTING GOODS INC": {
+            "values": 379,
+            "shares": 8400
+        },
+        "DISCOVERY COMMUNICATNS NEW": {
+            "values": 14335,
+            "shares": 568164
+        },
+        "DISH NETWORK CORP": {
+            "values": 11381,
+            "shares": 217195
+        },
+        "DISNEY WALT CO": {
+            "values": 6730,
+            "shares": 68800
+        },
+        "DOVER CORP": {
+            "values": 1282,
+            "shares": 18500
+        },
+        "DR PEPPER SNAPPLE GROUP INC": {
+            "values": 3400,
+            "shares": 35188
+        },
+        "EAST WEST BANCORP INC": {
+            "values": 1548,
+            "shares": 45300
+        },
+        "EASTMAN CHEM CO": {
+            "values": 9425,
+            "shares": 138800
+        },
+        "EATON CORP PLC": {
+            "values": 6707,
+            "shares": 112292
+        },
+        "EDWARDS LIFESCIENCES CORP": {
+            "values": 3371,
+            "shares": 33800
+        },
+        "ELDORADO GOLD CORP NEW": {
+            "values": 2342,
+            "shares": 523500
+        },
+        "ELECTRONIC ARTS INC": {
+            "values": 5288,
+            "shares": 69800
+        },
+        "EMERSON ELEC CO": {
+            "values": 8258,
+            "shares": 158317
+        },
+        "ENCANA CORP": {
+            "values": 1227,
+            "shares": 158500
+        },
+        "ENSCO PLC": {
+            "values": 12812,
+            "shares": 1319514
+        },
+        "EOG RES INC": {
+            "values": 13603,
+            "shares": 163065
+        },
+        "EQT CORP": {
+            "values": 4157,
+            "shares": 53686
+        },
+        "EQUIFAX INC": {
+            "values": 424,
+            "shares": 3300
+        },
+        "EQUITY RESIDENTIAL": {
+            "values": 317,
+            "shares": 4607
+        },
+        "EXPEDITORS INTL WASH INC": {
+            "values": 343,
+            "shares": 7000
+        },
+        "EXPRESS SCRIPTS HLDG CO": {
+            "values": 23621,
+            "shares": 311618
+        },
+        "EXXON MOBIL CORP": {
+            "values": 15298,
+            "shares": 163200
+        },
+        "F M C CORP": {
+            "values": 704,
+            "shares": 15200
+        },
+        "F5 NETWORKS INC": {
+            "values": 9956,
+            "shares": 87460
+        },
+        "FACEBOOK INC": {
+            "values": 2697,
+            "shares": 23600
+        },
+        "FACTSET RESH SYS INC": {
+            "values": 630,
+            "shares": 3900
+        },
+        "FEDEX CORP": {
+            "values": 16018,
+            "shares": 105536
+        },
+        "FIDELITY NATL INFORMATION SV": {
+            "values": 656,
+            "shares": 8900
+        },
+        "FIFTH THIRD BANCORP": {
+            "values": 387,
+            "shares": 22000
+        },
+        "FIRSTENERGY CORP": {
+            "values": 3747,
+            "shares": 107345
+        },
+        "FISERV INC": {
+            "values": 283,
+            "shares": 2600
+        },
+        "FLEXTRONICS INTL LTD": {
+            "values": 201,
+            "shares": 17000
+        },
+        "FLOWERS FOODS INC": {
+            "values": 227,
+            "shares": 12100
+        },
+        "FLOWSERVE CORP": {
+            "values": 1464,
+            "shares": 32400
+        },
+        "FMC TECHNOLOGIES INC": {
+            "values": 5707,
+            "shares": 214000
+        },
+        "FOOT LOCKER INC": {
+            "values": 11063,
+            "shares": 201656
+        },
+        "FORTUNE BRANDS HOME &amp; SEC IN": {
+            "values": 516,
+            "shares": 8900
+        },
+        "FOSSIL GROUP INC": {
+            "values": 3412,
+            "shares": 119587
+        },
+        "FRANCO NEVADA CORP": {
+            "values": 9390,
+            "shares": 124128
+        },
+        "FRANKLIN RES INC": {
+            "values": 320,
+            "shares": 9600
+        },
+        "FREEPORT-MCMORAN INC": {
+            "values": 4122,
+            "shares": 369991
+        },
+        "GAP INC DEL": {
+            "values": 7635,
+            "shares": 359813
+        },
+        "GARTNER INC": {
+            "values": 906,
+            "shares": 9300
+        },
+        "GENERAL DYNAMICS CORP": {
+            "values": 5792,
+            "shares": 41600
+        },
+        "GENERAL ELECTRIC CO": {
+            "values": 815,
+            "shares": 25900
+        },
+        "GENWORTH FINL INC": {
+            "values": 42,
+            "shares": 16200
+        },
+        "GILEAD SCIENCES INC": {
+            "values": 31255,
+            "shares": 374672
+        },
+        "GOLD FIELDS LTD NEW": {
+            "values": 2868,
+            "shares": 585400
+        },
+        "GOLDCORP INC NEW": {
+            "values": 32891,
+            "shares": 1719325
+        },
+        "GRAINGER W W INC": {
+            "values": 3367,
+            "shares": 14818
+        },
+        "HANESBRANDS INC": {
+            "values": 563,
+            "shares": 22400
+        },
+        "HENRY JACK &amp; ASSOC INC": {
+            "values": 255,
+            "shares": 2925
+        },
+        "HESS CORP": {
+            "values": 5457,
+            "shares": 90800
+        },
+        "HOLLYFRONTIER CORP": {
+            "values": 2188,
+            "shares": 92036
+        },
+        "HOME DEPOT INC": {
+            "values": 4980,
+            "shares": 39000
+        },
+        "HONEYWELL INTL INC": {
+            "values": 2466,
+            "shares": 21197
+        },
+        "HOST HOTELS &amp; RESORTS INC": {
+            "values": 676,
+            "shares": 41700
+        },
+        "HUNT J B TRANS SVCS INC": {
+            "values": 445,
+            "shares": 5500
+        },
+        "HUNTINGTON BANCSHARES INC": {
+            "values": 1981,
+            "shares": 221600
+        },
+        "ILLINOIS TOOL WKS INC": {
+            "values": 2321,
+            "shares": 22279
+        },
+        "IMPERIAL OIL LTD": {
+            "values": 13236,
+            "shares": 420500
+        },
+        "INTEL CORP": {
+            "values": 32408,
+            "shares": 988043
+        },
+        "INTERNATIONAL FLAVORS&amp;FRAGRA": {
+            "values": 744,
+            "shares": 5900
+        },
+        "INTL PAPER CO": {
+            "values": 6167,
+            "shares": 145509
+        },
+        "INTUIT": {
+            "values": 5425,
+            "shares": 48611
+        },
+        "INVESCO LTD": {
+            "values": 7683,
+            "shares": 300822
+        },
+        "ISHARES": {
+            "values": 125444,
+            "shares": 4157211
+        },
+        "ISHARES TR": {
+            "values": 1466021,
+            "shares": 39344088
+        },
+        "JABIL CIRCUIT INC": {
+            "values": 499,
+            "shares": 27000
+        },
+        "JACOBS ENGR GROUP INC DEL": {
+            "values": 877,
+            "shares": 17600
+        },
+        "JOHNSON &amp; JOHNSON": {
+            "values": 15733,
+            "shares": 129700
+        },
+        "JOHNSON CTLS INC": {
+            "values": 727,
+            "shares": 16433
+        },
+        "JONES LANG LASALLE INC": {
+            "values": 1715,
+            "shares": 17600
+        },
+        "JUNIPER NETWORKS INC": {
+            "values": 19589,
+            "shares": 871009
+        },
+        "KANSAS CITY SOUTHERN": {
+            "values": 1968,
+            "shares": 21848
+        },
+        "KBR INC": {
+            "values": 201,
+            "shares": 15200
+        },
+        "KELLOGG CO": {
+            "values": 523,
+            "shares": 6400
+        },
+        "KEYCORP NEW": {
+            "values": 1327,
+            "shares": 120100
+        },
+        "KINROSS GOLD CORP": {
+            "values": 4425,
+            "shares": 906500
+        },
+        "KOHLS CORP": {
+            "values": 13405,
+            "shares": 353509
+        },
+        "LABORATORY CORP AMER HLDGS": {
+            "values": 2542,
+            "shares": 19513
+        },
+        "LAM RESEARCH CORP": {
+            "values": 6816,
+            "shares": 81080
+        },
+        "LAUDER ESTEE COS INC": {
+            "values": 3244,
+            "shares": 35639
+        },
+        "LEAR CORP": {
+            "values": 1537,
+            "shares": 15100
+        },
+        "LEGG MASON INC": {
+            "values": 425,
+            "shares": 14400
+        },
+        "LEGGETT &amp; PLATT INC": {
+            "values": 419,
+            "shares": 8200
+        },
+        "LENNAR CORP": {
+            "values": 1185,
+            "shares": 25700
+        },
+        "LEVEL 3 COMMUNICATIONS INC": {
+            "values": 1874,
+            "shares": 36400
+        },
+        "LIBERTY INTERACTIVE CORP": {
+            "values": 502,
+            "shares": 19800
+        },
+        "LILLY ELI &amp; CO": {
+            "values": 6100,
+            "shares": 77462
+        },
+        "LINCOLN NATL CORP IND": {
+            "values": 10941,
+            "shares": 282200
+        },
+        "LINEAR TECHNOLOGY CORP": {
+            "values": 3696,
+            "shares": 79439
+        },
+        "LINKEDIN CORP": {
+            "values": 227,
+            "shares": 1200
+        },
+        "LKQ CORP": {
+            "values": 862,
+            "shares": 27200
+        },
+        "LOCKHEED MARTIN CORP": {
+            "values": 347,
+            "shares": 1400
+        },
+        "LOEWS CORP": {
+            "values": 390,
+            "shares": 9500
+        },
+        "LOWES COS INC": {
+            "values": 4259,
+            "shares": 53800
+        },
+        "LYONDELLBASELL INDUSTRIES N": {
+            "values": 26279,
+            "shares": 353116
+        },
+        "MACYS INC": {
+            "values": 12176,
+            "shares": 362280
+        },
+        "MANPOWERGROUP INC": {
+            "values": 1538,
+            "shares": 23900
+        },
+        "MARATHON OIL CORP": {
+            "values": 3614,
+            "shares": 240800
+        },
+        "MARSH &amp; MCLENNAN COS INC": {
+            "values": 1293,
+            "shares": 18890
+        },
+        "MARTIN MARIETTA MATLS INC": {
+            "values": 5777,
+            "shares": 30089
+        },
+        "MASCO CORP": {
+            "values": 5737,
+            "shares": 185415
+        },
+        "MASTERCARD INC": {
+            "values": 484,
+            "shares": 5500
+        },
+        "MAXIM INTEGRATED PRODS INC": {
+            "values": 9595,
+            "shares": 268844
+        },
+        "MCDONALDS CORP": {
+            "values": 12875,
+            "shares": 106987
+        },
+        "MCKESSON CORP": {
+            "values": 6226,
+            "shares": 33359
+        },
+        "MEAD JOHNSON NUTRITION CO": {
+            "values": 690,
+            "shares": 7600
+        },
+        "MERCK &amp; CO INC": {
+            "values": 14492,
+            "shares": 251546
+        },
+        "METLIFE INC": {
+            "values": 16531,
+            "shares": 415045
+        },
+        "METTLER TOLEDO INTERNATIONAL": {
+            "values": 693,
+            "shares": 1900
+        },
+        "MGM RESORTS INTERNATIONAL": {
+            "values": 3048,
+            "shares": 134700
+        },
+        "MICROCHIP TECHNOLOGY INC": {
+            "values": 5039,
+            "shares": 99274
+        },
+        "MICROSOFT CORP": {
+            "values": 15302,
+            "shares": 299048
+        },
+        "MOHAWK INDS INC": {
+            "values": 5798,
+            "shares": 30557
+        },
+        "MOLSON COORS BREWING CO": {
+            "values": 728,
+            "shares": 7200
+        },
+        "MONDELEZ INTL INC": {
+            "values": 13821,
+            "shares": 303700
+        },
+        "MOTOROLA SOLUTIONS INC": {
+            "values": 13077,
+            "shares": 198230
+        },
+        "MSC INDL DIRECT INC": {
+            "values": 804,
+            "shares": 11400
+        },
+        "NASDAQ INC": {
+            "values": 446,
+            "shares": 6900
+        },
+        "NETAPP INC": {
+            "values": 10934,
+            "shares": 444638
+        },
+        "NETSUITE INC": {
+            "values": 1645,
+            "shares": 22600
+        },
+        "NEW GOLD INC CDA": {
+            "values": 1561,
+            "shares": 358700
+        },
+        "NEW YORK CMNTY BANCORP INC": {
+            "values": 586,
+            "shares": 39100
+        },
+        "NEWMONT MINING CORP": {
+            "values": 11352,
+            "shares": 290179
+        },
+        "NIKE INC": {
+            "values": 668,
+            "shares": 12100
+        },
+        "NOBLE CORP PLC": {
+            "values": 18574,
+            "shares": 2254112
+        },
+        "NOBLE ENERGY INC": {
+            "values": 4533,
+            "shares": 126362
+        },
+        "NORTHERN TR CORP": {
+            "values": 848,
+            "shares": 12800
+        },
+        "NRG ENERGY INC": {
+            "values": 1801,
+            "shares": 120149
+        },
+        "NUANCE COMMUNICATIONS INC": {
+            "values": 438,
+            "shares": 28000
+        },
+        "NUCOR CORP": {
+            "values": 10178,
+            "shares": 205983
+        },
+        "NVIDIA CORP": {
+            "values": 3861,
+            "shares": 82121
+        },
+        "O REILLY AUTOMOTIVE INC NEW": {
+            "values": 2215,
+            "shares": 8169
+        },
+        "OCCIDENTAL PETE CORP DEL": {
+            "values": 15180,
+            "shares": 200900
+        },
+        "OCEANEERING INTL INC": {
+            "values": 233,
+            "shares": 7800
+        },
+        "ORACLE CORP": {
+            "values": 3652,
+            "shares": 89228
+        },
+        "OWENS ILL INC": {
+            "values": 182,
+            "shares": 10100
+        },
+        "PACCAR INC": {
+            "values": 4241,
+            "shares": 81759
+        },
+        "PACKAGING CORP AMER": {
+            "values": 696,
+            "shares": 10400
+        },
+        "PARKER HANNIFIN CORP": {
+            "values": 14446,
+            "shares": 133700
+        },
+        "PATTERSON COMPANIES INC": {
+            "values": 306,
+            "shares": 6400
+        },
+        "PEOPLES UNITED FINANCIAL INC": {
+            "values": 1025,
+            "shares": 69900
+        },
+        "PEPSICO INC": {
+            "values": 10965,
+            "shares": 103500
+        },
+        "PERKINELMER INC": {
+            "values": 477,
+            "shares": 9100
+        },
+        "PETROCHINA CO LTD": {
+            "values": 1413,
+            "shares": 20809
+        },
+        "PETROLEO BRASILEIRO SA PETRO": {
+            "values": 12873,
+            "shares": 1797900
+        },
+        "PFIZER INC": {
+            "values": 19740,
+            "shares": 560639
+        },
+        "PHILLIPS 66": {
+            "values": 677,
+            "shares": 8529
+        },
+        "PIONEER NAT RES CO": {
+            "values": 7757,
+            "shares": 51300
+        },
+        "PPG INDS INC": {
+            "values": 7188,
+            "shares": 69020
+        },
+        "PRICELINE GRP INC": {
+            "values": 4369,
+            "shares": 3500
+        },
+        "PRINCIPAL FINL GROUP INC": {
+            "values": 1106,
+            "shares": 26900
+        },
+        "PROLOGIS INC": {
+            "values": 387,
+            "shares": 7900
+        },
+        "PRUDENTIAL FINL INC": {
+            "values": 6415,
+            "shares": 89917
+        },
+        "PUBLIC STORAGE": {
+            "values": 409,
+            "shares": 1600
+        },
+        "PVH CORP": {
+            "values": 8273,
+            "shares": 87792
+        },
+        "QUANTA SVCS INC": {
+            "values": 610,
+            "shares": 26400
+        },
+        "RANDGOLD RES LTD": {
+            "values": 7348,
+            "shares": 65581
+        },
+        "RANGE RES CORP": {
+            "values": 2226,
+            "shares": 51604
+        },
+        "RAYMOND JAMES FINANCIAL INC": {
+            "values": 1479,
+            "shares": 30000
+        },
+        "REGIONS FINL CORP NEW": {
+            "values": 1105,
+            "shares": 129900
+        },
+        "RELIANCE STEEL &amp; ALUMINUM CO": {
+            "values": 577,
+            "shares": 7500
+        },
+        "RIO TINTO PLC": {
+            "values": 16304,
+            "shares": 520900
+        },
+        "ROBERT HALF INTL INC": {
+            "values": 1481,
+            "shares": 38800
+        },
+        "ROCKWELL AUTOMATION INC": {
+            "values": 2951,
+            "shares": 25700
+        },
+        "ROCKWELL COLLINS INC": {
+            "values": 766,
+            "shares": 9000
+        },
+        "ROPER TECHNOLOGIES INC": {
+            "values": 409,
+            "shares": 2400
+        },
+        "ROYAL CARIBBEAN CRUISES LTD": {
+            "values": 9688,
+            "shares": 144274
+        },
+        "ROYAL GOLD INC": {
+            "values": 3428,
+            "shares": 47600
+        },
+        "S&amp;P GLOBAL INC": {
+            "values": 5818,
+            "shares": 54243
+        },
+        "SALLY BEAUTY HLDGS INC": {
+            "values": 385,
+            "shares": 13100
+        },
+        "SCHEIN HENRY INC": {
+            "values": 407,
+            "shares": 2300
+        },
+        "SCRIPPS NETWORKS INTERACT IN": {
+            "values": 978,
+            "shares": 15700
+        },
+        "SEI INVESTMENTS CO": {
+            "values": 1203,
+            "shares": 25000
+        },
+        "SENSATA TECHNOLOGIES HLDG NV": {
+            "values": 548,
+            "shares": 15700
+        },
+        "SIBANYE GOLD LTD": {
+            "values": 2208,
+            "shares": 162126
+        },
+        "SIGNATURE BK NEW YORK N Y": {
+            "values": 1112,
+            "shares": 8900
+        },
+        "SILVER WHEATON CORP": {
+            "values": 19888,
+            "shares": 845201
+        },
+        "SKYWORKS SOLUTIONS INC": {
+            "values": 6611,
+            "shares": 104469
+        },
+        "SNAP ON INC": {
+            "values": 836,
+            "shares": 5300
+        },
+        "SOUTHERN COPPER CORP": {
+            "values": 6340,
+            "shares": 234997
+        },
+        "SOUTHWEST AIRLS CO": {
+            "values": 1174,
+            "shares": 29954
+        },
+        "SPDR S&amp;P 500 ETF TR": {
+            "values": 2141086,
+            "shares": 10221200
+        },
+        "STANLEY BLACK &amp; DECKER INC": {
+            "values": 2649,
+            "shares": 23816
+        },
+        "STAPLES INC": {
+            "values": 22736,
+            "shares": 2637617
+        },
+        "STARBUCKS CORP": {
+            "values": 11377,
+            "shares": 199175
+        },
+        "STATE STR CORP": {
+            "values": 3278,
+            "shares": 60800
+        },
+        "SUNCOR ENERGY INC NEW": {
+            "values": 22320,
+            "shares": 808800
+        },
+        "SYMANTEC CORP": {
+            "values": 406,
+            "shares": 19764
+        },
+        "TAHOE RES INC": {
+            "values": 3151,
+            "shares": 211500
+        },
+        "TARGET CORP": {
+            "values": 10290,
+            "shares": 147382
+        },
+        "TD AMERITRADE HLDG CORP": {
+            "values": 891,
+            "shares": 31300
+        },
+        "TE CONNECTIVITY LTD": {
+            "values": 6048,
+            "shares": 105900
+        },
+        "TECK RESOURCES LTD": {
+            "values": 2299,
+            "shares": 175500
+        },
+        "TESORO CORP": {
+            "values": 11950,
+            "shares": 159508
+        },
+        "TEVA PHARMACEUTICAL INDS LTD": {
+            "values": 1241,
+            "shares": 24700
+        },
+        "TEXAS INSTRS INC": {
+            "values": 12053,
+            "shares": 192381
+        },
+        "TEXTRON INC": {
+            "values": 5440,
+            "shares": 148800
+        },
+        "THERMO FISHER SCIENTIFIC INC": {
+            "values": 1842,
+            "shares": 12466
+        },
+        "TIFFANY &amp; CO NEW": {
+            "values": 1389,
+            "shares": 22900
+        },
+        "TOLL BROTHERS INC": {
+            "values": 16271,
+            "shares": 604652
+        },
+        "TORCHMARK CORP": {
+            "values": 284,
+            "shares": 4600
+        },
+        "TOTAL SYS SVCS INC": {
+            "values": 701,
+            "shares": 13200
+        },
+        "TRACTOR SUPPLY CO": {
+            "values": 292,
+            "shares": 3200
+        },
+        "TRANSCANADA CORP": {
+            "values": 5798,
+            "shares": 128800
+        },
+        "TRIPADVISOR INC": {
+            "values": 399,
+            "shares": 6200
+        },
+        "TUPPERWARE BRANDS CORP": {
+            "values": 214,
+            "shares": 3800
+        },
+        "TURQUOISE HILL RES LTD": {
+            "values": 2076,
+            "shares": 617100
+        },
+        "TWENTY FIRST CENTY FOX INC": {
+            "values": 1439,
+            "shares": 53200
+        },
+        "TYSON FOODS INC": {
+            "values": 2247,
+            "shares": 33648
+        },
+        "UNITED CONTL HLDGS INC": {
+            "values": 1104,
+            "shares": 26900
+        },
+        "UNITED RENTALS INC": {
+            "values": 14177,
+            "shares": 211276
+        },
+        "UNITED TECHNOLOGIES CORP": {
+            "values": 226,
+            "shares": 2200
+        },
+        "UNITED THERAPEUTICS CORP DEL": {
+            "values": 6789,
+            "shares": 64100
+        },
+        "UNITEDHEALTH GROUP INC": {
+            "values": 3304,
+            "shares": 23400
+        },
+        "UNIVERSAL HLTH SVCS INC": {
+            "values": 201,
+            "shares": 1500
+        },
+        "UNUM GROUP": {
+            "values": 1663,
+            "shares": 52300
+        },
+        "URBAN OUTFITTERS INC": {
+            "values": 5399,
+            "shares": 196329
+        },
+        "V F CORP": {
+            "values": 9955,
+            "shares": 161900
+        },
+        "VALE S A": {
+            "values": 7285,
+            "shares": 1439700
+        },
+        "VALERO ENERGY CORP NEW": {
+            "values": 8634,
+            "shares": 169291
+        },
+        "VANGUARD INTL EQUITY INDEX F": {
+            "values": 2466142,
+            "shares": 70001189
+        },
+        "VARIAN MED SYS INC": {
+            "values": 3651,
+            "shares": 44400
+        },
+        "VERISIGN INC": {
+            "values": 5240,
+            "shares": 60601
+        },
+        "VERISK ANALYTICS INC": {
+            "values": 300,
+            "shares": 3700
+        },
+        "VMWARE INC": {
+            "values": 8077,
+            "shares": 141162
+        },
+        "WABTEC CORP": {
+            "values": 1243,
+            "shares": 17699
+        },
+        "WASTE MGMT INC DEL": {
+            "values": 1064,
+            "shares": 16063
+        },
+        "WATERS CORP": {
+            "values": 366,
+            "shares": 2600
+        },
+        "WESTERN UN CO": {
+            "values": 10032,
+            "shares": 523041
+        },
+        "WESTROCK CO": {
+            "values": 797,
+            "shares": 20500
+        },
+        "WHIRLPOOL CORP": {
+            "values": 5632,
+            "shares": 33800
+        },
+        "WILLIS TOWERS WATSON PUB LTD": {
+            "values": 485,
+            "shares": 3900
+        },
+        "WYNDHAM WORLDWIDE CORP": {
+            "values": 285,
+            "shares": 4000
+        },
+        "XILINX INC": {
+            "values": 2044,
+            "shares": 44315
+        },
+        "XYLEM INC": {
+            "values": 585,
+            "shares": 13100
+        },
+        "YAMANA GOLD INC": {
+            "values": 10191,
+            "shares": 1959868
+        },
+        "YUM BRANDS INC": {
+            "values": 5672,
+            "shares": 68407
+        },
+        "ZIONS BANCORPORATION": {
+            "values": 1485,
+            "shares": 59112
+        }
+    }
+}

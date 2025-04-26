@@ -1,0 +1,24 @@
+import 'package:app/widget/appBar.dart';
+import 'package:flutter/material.dart';
+
+class SettingsPage extends StatefulWidget {
+  const SettingsPage({Key? key}) : super(key: key);
+
+  @override
+  State<SettingsPage> createState() => _SettingsPageState();
+}
+
+class _SettingsPageState extends State<SettingsPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppbarTop(
+        title: "settings",
+      ),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: <Widget>[const Text("현재 계정 : ")],
+      ),
+    );
+  }
+}

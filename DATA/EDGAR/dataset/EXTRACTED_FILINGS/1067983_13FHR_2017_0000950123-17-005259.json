@@ -1,0 +1,185 @@
+{
+    "cik": "1067983",
+    "company": "BERKSHIRE HATHAWAY INC",
+    "filing_type": "13F-HR",
+    "filing_date": "2017-05-15",
+    "period_of_report": "2017-03-31",
+    "sic": "6331",
+    "state_of_inc": "DE",
+    "state_location": "NE",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1067983/0000950123-17-005259-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1067983/000095012317005259/0000950123-17-005259.txt",
+    "filename": "1067983_13FHR_2017_0000950123-17-005259.txt",
+    "data": {
+        "AMERICAN AIRLS GROUP INC": {
+            "values": 2084496,
+            "shares": 49278854
+        },
+        "AMERICAN EXPRESS CO": {
+            "values": 11993921,
+            "shares": 151610700
+        },
+        "APPLE INC": {
+            "values": 18583441,
+            "shares": 129357106
+        },
+        "BANK OF NEW YORK MELLON CORP": {
+            "values": 1559160,
+            "shares": 33012059
+        },
+        "CHARTER COMMUNICATIONS INC N": {
+            "values": 3091043,
+            "shares": 9443491
+        },
+        "COCA COLA CO": {
+            "values": 16976000,
+            "shares": 400000000
+        },
+        "COSTCO WHSL CORP NEW": {
+            "values": 726662,
+            "shares": 4333363
+        },
+        "DAVITA HEALTHCARE PARTNERS I": {
+            "values": 2621301,
+            "shares": 38565570
+        },
+        "DELTA AIR LINES INC DEL": {
+            "values": 2528995,
+            "shares": 55025995
+        },
+        "GENERAL ELECTRIC CO": {
+            "values": 315448,
+            "shares": 10585502
+        },
+        "GENERAL MTRS CO": {
+            "values": 1768001,
+            "shares": 50000000
+        },
+        "GOLDMAN SACHS GROUP INC": {
+            "values": 2517620,
+            "shares": 10959519
+        },
+        "GRAHAM HLDGS CO": {
+            "values": 64496,
+            "shares": 107575
+        },
+        "INTERNATIONAL BUSINESS MACHS": {
+            "values": 11242819,
+            "shares": 64561955
+        },
+        "JOHNSON &amp; JOHNSON": {
+            "values": 40740,
+            "shares": 327100
+        },
+        "KRAFT HEINZ CO": {
+            "values": 29570898,
+            "shares": 325634818
+        },
+        "LIBERTY MEDIA CORP DELAWARE": {
+            "values": 1263915,
+            "shares": 32554909
+        },
+        "M &amp; T BK CORP": {
+            "values": 832764,
+            "shares": 5382040
+        },
+        "MASTERCARD INC": {
+            "values": 555012,
+            "shares": 4934756
+        },
+        "MONDELEZ INTL INC": {
+            "values": 24900,
+            "shares": 578000
+        },
+        "MOSANTO CO NEW": {
+            "values": 910330,
+            "shares": 8041784
+        },
+        "MOODYS CORP": {
+            "values": 2764002,
+            "shares": 24669778
+        },
+        "PHILLIPS 66": {
+            "values": 6392254,
+            "shares": 80689892
+        },
+        "PROCTER &amp; GAMBLE CO": {
+            "values": 28339,
+            "shares": 315400
+        },
+        "RESTAURANT BRANDS INTL INC": {
+            "values": 470347,
+            "shares": 8438225
+        },
+        "SANOFI": {
+            "values": 176741,
+            "shares": 3905875
+        },
+        "SIRIUS XM HLDGS INC": {
+            "values": 887476,
+            "shares": 172325353
+        },
+        "SOUTHWEST AIRLS CO": {
+            "values": 2562172,
+            "shares": 47659456
+        },
+        "TORCHMARK CORP": {
+            "values": 489492,
+            "shares": 6353727
+        },
+        "US BANCORP DEL": {
+            "values": 4380754,
+            "shares": 85063167
+        },
+        "U S G CORP": {
+            "values": 1240264,
+            "shares": 39002016
+        },
+        "UNITED CONTL HLDGS INC": {
+            "values": 2045124,
+            "shares": 28951353
+        },
+        "UNITED PARCEL SERVICE INC": {
+            "values": 6374,
+            "shares": 59400
+        },
+        "VERISIGN INC": {
+            "values": 1128313,
+            "shares": 12952745
+        },
+        "VERIZON COMMUNICATIONS INC": {
+            "values": 45,
+            "shares": 928
+        },
+        "VERISK ANALYTICS INC": {
+            "values": 126857,
+            "shares": 1563434
+        },
+        "VISA INC": {
+            "values": 938686,
+            "shares": 10562460
+        },
+        "WABCO HLDGS INC": {
+            "values": 341522,
+            "shares": 2908554
+        },
+        "WAL MART STORES INC": {
+            "values": 100445,
+            "shares": 1393513
+        },
+        "WELLS FARGO &amp; CO NEW": {
+            "values": 26700340,
+            "shares": 479704270
+        },
+        "AXALTA COATING SYS LTD": {
+            "values": 751033,
+            "shares": 23324000
+        },
+        "LIBERTY GLOBAL PLC": {
+            "values": 1071289,
+            "shares": 31526739
+        }
+    }
+}

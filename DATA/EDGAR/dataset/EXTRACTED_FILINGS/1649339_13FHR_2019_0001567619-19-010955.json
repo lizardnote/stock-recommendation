@@ -1,0 +1,73 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2019-05-15",
+    "period_of_report": "2019-03-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-19-010955-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761919010955/0001567619-19-010955.txt",
+    "filename": "1649339_13FHR_2019_0001567619-19-010955.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 8827,
+            "shares": 7500
+        },
+        "ALTABA INC": {
+            "values": 7783,
+            "shares": 105000
+        },
+        "CLEVELAND CLIFFS INC": {
+            "values": 7493,
+            "shares": 750000
+        },
+        "COREPOINT LODGING INC": {
+            "values": 7345,
+            "shares": 657600
+        },
+        "DISNEY WALT CO": {
+            "values": 7772,
+            "shares": 70000
+        },
+        "FACEBOOK INC": {
+            "values": 7501,
+            "shares": 45000
+        },
+        "FIVE POINT HOLDINGS LLC": {
+            "values": 8929,
+            "shares": 1238381
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 6604,
+            "shares": 650000
+        },
+        "GREENSKY INC": {
+            "values": 3520,
+            "shares": 272021
+        },
+        "JD COM INC": {
+            "values": 9045,
+            "shares": 300000
+        },
+        "PETIQ INC": {
+            "values": 3337,
+            "shares": 106232
+        },
+        "SPORTSMANS WHSE HLDGS INC": {
+            "values": 6001,
+            "shares": 1250119
+        },
+        "TAILORED BRANDS INC": {
+            "values": 6815,
+            "shares": 869200
+        },
+        "WESTERN DIGITAL CORP": {
+            "values": 7209,
+            "shares": 150000
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2021-05-17",
+    "period_of_report": "2021-03-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-21-010281-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761921010281/0001567619-21-010281.txt",
+    "filename": "1649339_13FHR_2021_0001567619-21-010281.txt",
+    "data": {
+        "AERPIO PHARMACEUTICALS INC": {
+            "values": 1290,
+            "shares": 1000000
+        },
+        "ALPHABET INC": {
+            "values": 165490,
+            "shares": 80000
+        },
+        "CORECIVIC INC": {
+            "values": 9955,
+            "shares": 1100000
+        },
+        "CVS HEALTH CORP": {
+            "values": 38367,
+            "shares": 510000
+        },
+        "DIREXION SHS ETF TR": {
+            "values": 3128,
+            "shares": 38400
+        },
+        "FACEBOOK INC": {
+            "values": 161992,
+            "shares": 550000
+        },
+        "GENCO SHIPPING &amp; TRADING LTD": {
+            "values": 3575,
+            "shares": 354711
+        },
+        "GOLDEN OCEAN GROUP LTD": {
+            "values": 3554,
+            "shares": 530000
+        },
+        "HELMERICH &amp; PAYNE INC": {
+            "values": 5392,
+            "shares": 200000
+        },
+        "INGLES MKTS INC": {
+            "values": 9248,
+            "shares": 150000
+        },
+        "ISHARES TR": {
+            "values": 213908,
+            "shares": 1407300
+        },
+        "KRAFT HEINZ CO": {
+            "values": 46992,
+            "shares": 1174800
+        },
+        "LUMEN TECHNOLOGIES INC": {
+            "values": 8678,
+            "shares": 650000
+        },
+        "MARINUS PHARMACEUTICALS INC": {
+            "values": 4602,
+            "shares": 297272
+        },
+        "MEREDITH CORP": {
+            "values": 4169,
+            "shares": 140000
+        },
+        "NETAPP INC": {
+            "values": 21801,
+            "shares": 300000
+        },
+        "NOW INC": {
+            "values": 7063,
+            "shares": 700000
+        },
+        "OCCIDENTAL PETE CORP": {
+            "values": 5990,
+            "shares": 225000
+        },
+        "PRECISION DRILLING CORP": {
+            "values": 4813,
+            "shares": 222706
+        },
+        "PROSHARES TR": {
+            "values": 66232,
+            "shares": 2936000
+        },
+        "RPT REALTY": {
+            "values": 6846,
+            "shares": 600000
+        },
+        "SCORPIO TANKERS INC": {
+            "values": 3509,
+            "shares": 190100
+        },
+        "SUNCOKE ENERGY INC": {
+            "values": 7711,
+            "shares": 1100000
+        },
+        "TESLA INC": {
+            "values": 534411,
+            "shares": 800100
+        },
+        "URSTADT BIDDLE PPTYS INC": {
+            "values": 874,
+            "shares": 52512
+        },
+        "VECTOR ACQUISITION CORP": {
+            "values": 5465,
+            "shares": 461591
+        },
+        "ZYMEWORKS INC": {
+            "values": 8875,
+            "shares": 281018
+        }
+    }
+}

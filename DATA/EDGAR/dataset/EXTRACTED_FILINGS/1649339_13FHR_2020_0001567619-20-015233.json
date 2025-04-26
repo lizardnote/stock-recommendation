@@ -1,0 +1,121 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2020-08-14",
+    "period_of_report": "2020-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-20-015233-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761920015233/0001567619-20-015233.txt",
+    "filename": "1649339_13FHR_2020_0001567619-20-015233.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 113089,
+            "shares": 80000
+        },
+        "BED BATH &amp; BEYOND INC": {
+            "values": 10600,
+            "shares": 1000000
+        },
+        "BK OF AMERICA CORP": {
+            "values": 8130,
+            "shares": 342300
+        },
+        "BOOKING HOLDINGS INC": {
+            "values": 18471,
+            "shares": 11600
+        },
+        "COPA HOLDINGS SA": {
+            "values": 7837,
+            "shares": 155000
+        },
+        "CRACKER BARREL OLD CTRY STOR": {
+            "values": 1653,
+            "shares": 14900
+        },
+        "DESIGNER BRANDS INC": {
+            "values": 3893,
+            "shares": 575000
+        },
+        "DISCOVERY INC": {
+            "values": 11862,
+            "shares": 562200
+        },
+        "FACEBOOK INC": {
+            "values": 21163,
+            "shares": 93200
+        },
+        "FOOT LOCKER INC": {
+            "values": 5249,
+            "shares": 180000
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 11935,
+            "shares": 2750000
+        },
+        "GOLDMAN SACHS GROUP INC": {
+            "values": 14545,
+            "shares": 73600
+        },
+        "HELMERICH &amp; PAYNE INC": {
+            "values": 7657,
+            "shares": 392500
+        },
+        "JPMORGAN CHASE &amp; CO": {
+            "values": 8089,
+            "shares": 86000
+        },
+        "KIMBALL INTL INC": {
+            "values": 1924,
+            "shares": 166452
+        },
+        "LAS VEGAS SANDS CORP": {
+            "values": 6968,
+            "shares": 153000
+        },
+        "MAXAR TECHNOLOGIES INC": {
+            "values": 5388,
+            "shares": 300000
+        },
+        "NATIONAL OILWELL VARCO INC": {
+            "values": 2112,
+            "shares": 172400
+        },
+        "PRECISION DRILLING CORP": {
+            "values": 3054,
+            "shares": 4024093
+        },
+        "QORVO INC": {
+            "values": 12490,
+            "shares": 113000
+        },
+        "RETAIL OPPORTUNITY INVTS COR": {
+            "values": 5665,
+            "shares": 500000
+        },
+        "TRIP COM GROUP LTD": {
+            "values": 8424,
+            "shares": 325000
+        },
+        "UNITI GROUP INC": {
+            "values": 5955,
+            "shares": 636894
+        },
+        "VIACOMCBS INC": {
+            "values": 2006,
+            "shares": 86000
+        },
+        "WESTERN DIGITAL CORP.": {
+            "values": 11921,
+            "shares": 270000
+        },
+        "WYNN RESORTS LTD": {
+            "values": 5214,
+            "shares": 70000
+        }
+    }
+}

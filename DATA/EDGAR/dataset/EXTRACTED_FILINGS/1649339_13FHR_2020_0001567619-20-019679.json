@@ -1,0 +1,137 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2020-11-16",
+    "period_of_report": "2020-09-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-20-019679-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761920019679/0001567619-20-019679.txt",
+    "filename": "1649339_13FHR_2020_0001567619-20-019679.txt",
+    "data": {
+        "ALLSTATE CORP": {
+            "values": 8473,
+            "shares": 90000
+        },
+        "ALPHABET INC": {
+            "values": 58784,
+            "shares": 40000
+        },
+        "ALTRIA GROUP INC": {
+            "values": 7728,
+            "shares": 200000
+        },
+        "BK OF AMERICA CORP": {
+            "values": 8246,
+            "shares": 342300
+        },
+        "CVS HEALTH CORP": {
+            "values": 35747,
+            "shares": 612100
+        },
+        "DESIGNER BRANDS INC": {
+            "values": 6516,
+            "shares": 1200000
+        },
+        "DISCOVERY INC": {
+            "values": 10885,
+            "shares": 500000
+        },
+        "FACEBOOK INC": {
+            "values": 24881,
+            "shares": 95000
+        },
+        "FOOT LOCKER INC": {
+            "values": 5945,
+            "shares": 180000
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 17375,
+            "shares": 1703400
+        },
+        "GOLDMAN SACHS GROUP INC": {
+            "values": 14791,
+            "shares": 73600
+        },
+        "JPMORGAN CHASE &amp; CO": {
+            "values": 8279,
+            "shares": 86000
+        },
+        "KIMBALL INTL INC": {
+            "values": 5797,
+            "shares": 550000
+        },
+        "LAS VEGAS SANDS CORP": {
+            "values": 7139,
+            "shares": 153000
+        },
+        "LIBERTY LATIN AMERICA LTD": {
+            "values": 410,
+            "shares": 49671
+        },
+        "LUMEN TECHNOLOGIES INC": {
+            "values": 8072,
+            "shares": 800000
+        },
+        "MSG NETWORK INC": {
+            "values": 8135,
+            "shares": 850000
+        },
+        "NATIONAL OILWELL VARCO INC": {
+            "values": 1482,
+            "shares": 163600
+        },
+        "PFIZER INC": {
+            "values": 15289,
+            "shares": 416600
+        },
+        "PRECISION DRILLING CORP": {
+            "values": 2880,
+            "shares": 4500000
+        },
+        "QORVO INC": {
+            "values": 7741,
+            "shares": 60000
+        },
+        "QURATE RETAIL INC": {
+            "values": 7898,
+            "shares": 1100000
+        },
+        "RETAIL OPPORTUNITY INVTS COR": {
+            "values": 5208,
+            "shares": 500000
+        },
+        "RPT REALTY": {
+            "values": 7344,
+            "shares": 1350000
+        },
+        "TRIP COM GROUP LTD": {
+            "values": 7785,
+            "shares": 250000
+        },
+        "UNITI GROUP INC": {
+            "values": 10535,
+            "shares": 1000000
+        },
+        "URSTADT BIDDLE PPTYS INC": {
+            "values": 460,
+            "shares": 50000
+        },
+        "VIACOMCBS INC": {
+            "values": 2409,
+            "shares": 86000
+        },
+        "WESTERN DIGITAL CORP.": {
+            "values": 19007,
+            "shares": 520000
+        },
+        "WYNN RESORTS LTD": {
+            "values": 5027,
+            "shares": 70000
+        }
+    }
+}

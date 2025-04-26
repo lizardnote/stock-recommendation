@@ -1,0 +1,53 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2020-02-14",
+    "period_of_report": "2019-12-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-20-003530-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761920003530/0001567619-20-003530.txt",
+    "filename": "1649339_13FHR_2019_0001567619-20-003530.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 10696,
+            "shares": 8000
+        },
+        "BLACKBERRY LTD": {
+            "values": 5778,
+            "shares": 900000
+        },
+        "CENOVUS ENERGY INC": {
+            "values": 6090,
+            "shares": 600000
+        },
+        "COVETRUS INC": {
+            "values": 7338,
+            "shares": 555900
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 14288,
+            "shares": 2350000
+        },
+        "MAXAR TECHNOLOGIES INC": {
+            "values": 10186,
+            "shares": 650000
+        },
+        "QORVO INC": {
+            "values": 8717,
+            "shares": 75000
+        },
+        "SPORTSMANS WHSE HLDGS INC": {
+            "values": 5543,
+            "shares": 690294
+        },
+        "TAILORED BRANDS INC": {
+            "values": 13662,
+            "shares": 3300000
+        }
+    }
+}

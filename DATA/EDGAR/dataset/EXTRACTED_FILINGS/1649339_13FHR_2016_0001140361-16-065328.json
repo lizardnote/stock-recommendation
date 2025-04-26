@@ -1,0 +1,49 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2016-05-16",
+    "period_of_report": "2016-03-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001140361-16-065328-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000114036116065328/0001140361-16-065328.txt",
+    "filename": "1649339_13FHR_2016_0001140361-16-065328.txt",
+    "data": {
+        "AMGEN INC": {
+            "values": 5997,
+            "shares": 40000
+        },
+        "APPLE INC": {
+            "values": 8174,
+            "shares": 75000
+        },
+        "FIRST SOLAR INC": {
+            "values": 6847,
+            "shares": 100000
+        },
+        "GENTHERM INC": {
+            "values": 1955,
+            "shares": 47000
+        },
+        "HCA HOLDINGS INC": {
+            "values": 7805,
+            "shares": 100000
+        },
+        "NEXPOINT RESIDENTIAL TR INC": {
+            "values": 7984,
+            "shares": 609905
+        },
+        "TAILORED BRANDS INC": {
+            "values": 7160,
+            "shares": 400000
+        },
+        "THERAVANCE BIOPHARMA INC": {
+            "values": 5170,
+            "shares": 275000
+        }
+    }
+}

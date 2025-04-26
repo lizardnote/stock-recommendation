@@ -1,0 +1,73 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2016-02-16",
+    "period_of_report": "2015-12-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001140361-16-052634-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000114036116052634/0001140361-16-052634.txt",
+    "filename": "1649339_13FHR_2015_0001140361-16-052634.txt",
+    "data": {
+        "ACE LTD": {
+            "values": 5843,
+            "shares": 50000
+        },
+        "APPLE INC": {
+            "values": 7895,
+            "shares": 75000
+        },
+        "BANK AMER CORP": {
+            "values": 5049,
+            "shares": 300000
+        },
+        "BANK NEW YORK MELLON CORP": {
+            "values": 4122,
+            "shares": 100000
+        },
+        "CITIGROUP INC": {
+            "values": 5175,
+            "shares": 100000
+        },
+        "CNX COAL RES LP": {
+            "values": 2376,
+            "shares": 256345
+        },
+        "COMMUNITY HEALTH SYS INC NEW": {
+            "values": 5306,
+            "shares": 200000
+        },
+        "FIRST SOLAR INC": {
+            "values": 6599,
+            "shares": 100000
+        },
+        "HCA HOLDINGS INC": {
+            "values": 5072,
+            "shares": 75000
+        },
+        "INTERNATIONAL BUSINESS MACHS": {
+            "values": 6881,
+            "shares": 50000
+        },
+        "MENS WEARHOUSE INC": {
+            "values": 5872,
+            "shares": 400000
+        },
+        "NEXPOINT RESIDENTIAL TR INC": {
+            "values": 8781,
+            "shares": 670800
+        },
+        "PNC FINL SVCS GROUP INC": {
+            "values": 3812,
+            "shares": 40000
+        },
+        "THERAVANCE BIOPHARMA INC": {
+            "values": 7156,
+            "shares": 436626
+        }
+    }
+}

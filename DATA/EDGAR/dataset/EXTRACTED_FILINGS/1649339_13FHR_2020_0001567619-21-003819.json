@@ -1,0 +1,109 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2021-02-16",
+    "period_of_report": "2020-12-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-21-003819-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761921003819/0001567619-21-003819.txt",
+    "filename": "1649339_13FHR_2020_0001567619-21-003819.txt",
+    "data": {
+        "ALLSTATE CORP": {
+            "values": 8245,
+            "shares": 75000
+        },
+        "ARES CAPITAL CORP": {
+            "values": 2111,
+            "shares": 125000
+        },
+        "CITIGROUP INC": {
+            "values": 33272,
+            "shares": 539600
+        },
+        "CORECIVIC INC": {
+            "values": 6550,
+            "shares": 1000000
+        },
+        "DESIGNER BRANDS INC": {
+            "values": 6885,
+            "shares": 900000
+        },
+        "DISCOVERY INC": {
+            "values": 7523,
+            "shares": 250000
+        },
+        "GEO GROUP INC NEW": {
+            "values": 7488,
+            "shares": 845152
+        },
+        "HOLLYFRONTIER CORP": {
+            "values": 6463,
+            "shares": 250000
+        },
+        "INGLES MKTS INC": {
+            "values": 4753,
+            "shares": 111415
+        },
+        "KIMBALL INTL INC": {
+            "values": 5975,
+            "shares": 500000
+        },
+        "KRAFT HEINZ CO": {
+            "values": 20439,
+            "shares": 589700
+        },
+        "LUMEN TECHNOLOGIES INC": {
+            "values": 11213,
+            "shares": 1150000
+        },
+        "MOLSON COORS BEVERAGE CO": {
+            "values": 6779,
+            "shares": 150000
+        },
+        "MSG NETWORK INC": {
+            "values": 5085,
+            "shares": 345000
+        },
+        "NOW INC": {
+            "values": 10770,
+            "shares": 1500000
+        },
+        "PFIZER INC": {
+            "values": 31079,
+            "shares": 844300
+        },
+        "QURATE RETAIL INC": {
+            "values": 7679,
+            "shares": 700000
+        },
+        "RPT REALTY": {
+            "values": 8650,
+            "shares": 1000000
+        },
+        "SUNCOKE ENERGY INC": {
+            "values": 3376,
+            "shares": 776177
+        },
+        "UNITI GROUP INC": {
+            "values": 8504,
+            "shares": 725000
+        },
+        "URSTADT BIDDLE PPTYS INC": {
+            "values": 6005,
+            "shares": 425000
+        },
+        "WELLS FARGO CO NEW": {
+            "values": 7545,
+            "shares": 250000
+        },
+        "WESTERN DIGITAL CORP.": {
+            "values": 8309,
+            "shares": 150000
+        }
+    }
+}

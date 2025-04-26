@@ -1,0 +1,997 @@
+{
+    "cik": "1029160",
+    "company": "SOROS FUND MANAGEMENT LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2015-08-14",
+    "period_of_report": "2015-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "NY",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1029160/0001140361-15-032209-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1029160/000114036115032209/0001140361-15-032209.txt",
+    "filename": "1029160_13FHR_2015_0001140361-15-032209.txt",
+    "data": {
+        "AT&amp;T INC": {
+            "values": 1584,
+            "shares": 44600
+        },
+        "ABBOTT LABS": {
+            "values": 29555,
+            "shares": 602181
+        },
+        "ABEONA THERAPEUTICS INC": {
+            "values": 5113,
+            "shares": 1166667
+        },
+        "AEROPOSTALE": {
+            "values": 341,
+            "shares": 210800
+        },
+        "AGILYSYS INC": {
+            "values": 1222,
+            "shares": 133067
+        },
+        "ALASKA AIR GROUP INC": {
+            "values": 6377,
+            "shares": 98983
+        },
+        "ALCOA INC": {
+            "values": 59527,
+            "shares": 5338700
+        },
+        "ALIBABA GROUP HLDG LTD": {
+            "values": 4880,
+            "shares": 59320
+        },
+        "ALLIANCE ONE INTL INC": {
+            "values": 956,
+            "shares": 40000
+        },
+        "ALLY FINL INC": {
+            "values": 46757,
+            "shares": 2084595
+        },
+        "ALON USA ENERGY INC": {
+            "values": 4767,
+            "shares": 252198
+        },
+        "ALTERA CORP": {
+            "values": 4971,
+            "shares": 97087
+        },
+        "AMERICAN AIRLS GROUP INC": {
+            "values": 50595,
+            "shares": 1266938
+        },
+        "AMERICAN RLTY CAP PPTYS INC": {
+            "values": 31596,
+            "shares": 3886300
+        },
+        "ANHEUSER BUSCH INBEV SA/NV": {
+            "values": 13081,
+            "shares": 108400
+        },
+        "ARCH COAL INC": {
+            "values": 188,
+            "shares": 553200
+        },
+        "ATMEL CORP": {
+            "values": 50917,
+            "shares": 5166666
+        },
+        "AUTOHOME INC": {
+            "values": 14109,
+            "shares": 279158
+        },
+        "BAIDU INC": {
+            "values": 8521,
+            "shares": 42800
+        },
+        "BAKER HUGHES INC": {
+            "values": 25148,
+            "shares": 407580
+        },
+        "BARCLAYS BK PLC": {
+            "values": 8402,
+            "shares": 418000
+        },
+        "BARRICK GOLD CORP": {
+            "values": 20105,
+            "shares": 1886000
+        },
+        "B/E AEROSPACE INC": {
+            "values": 4639,
+            "shares": 84500
+        },
+        "BIO PATH HOLDINGS ORD (NMQ)": {
+            "values": 20,
+            "shares": 17600
+        },
+        "BIOAMBER INC": {
+            "values": 372,
+            "shares": 194000
+        },
+        "BITAUTO HLDGS LTD": {
+            "values": 4343,
+            "shares": 85077
+        },
+        "BLOCK H &amp; R INC": {
+            "values": 19569,
+            "shares": 660000
+        },
+        "BOEING CO": {
+            "values": 3884,
+            "shares": 28000
+        },
+        "BROADCOM CORP": {
+            "values": 25503,
+            "shares": 495300
+        },
+        "BROADSOFT INC": {
+            "values": 23618,
+            "shares": 22112000
+        },
+        "CBS CORP NEW": {
+            "values": 39597,
+            "shares": 713457
+        },
+        "CME GROUP INC": {
+            "values": 2792,
+            "shares": 30000
+        },
+        "CABLEVISION SYS CORP": {
+            "values": 18793,
+            "shares": 785000
+        },
+        "CAESARS ENTMT CORP": {
+            "values": 31618,
+            "shares": 5166327
+        },
+        "CAESARS ACQUISITION CO": {
+            "values": 43168,
+            "shares": 6274465
+        },
+        "CALIFORNIA RES CORP": {
+            "values": 49537,
+            "shares": 8201477
+        },
+        "CALIX INC": {
+            "values": 10705,
+            "shares": 1406666
+        },
+        "CAMECO CORP": {
+            "values": 52835,
+            "shares": 3699897
+        },
+        "CARTER INC": {
+            "values": 5410,
+            "shares": 50896
+        },
+        "CHESAPEAKE ENERGY CORP": {
+            "values": 21223,
+            "shares": 1900000
+        },
+        "CHURCHILL DOWNS INC": {
+            "values": 48442,
+            "shares": 387381
+        },
+        "CIENA CORP": {
+            "values": 99646,
+            "shares": 98782000
+        },
+        "CINEDIGM CORP": {
+            "values": 27,
+            "shares": 38900
+        },
+        "CITIGROUP INC": {
+            "values": 2762,
+            "shares": 50000
+        },
+        "COHERENT INC": {
+            "values": 3915,
+            "shares": 61677
+        },
+        "COHERUS BIOSCIENCES INC": {
+            "values": 3688,
+            "shares": 127600
+        },
+        "CONTROLADORA VUELA CIA DE AV": {
+            "values": 3654,
+            "shares": 306011
+        },
+        "CORNERSTONE ONDEMAND INC": {
+            "values": 103664,
+            "shares": 102195000
+        },
+        "COTT CORP QUE": {
+            "values": 734,
+            "shares": 75000
+        },
+        "CTRIP COM INTL LTD": {
+            "values": 20484,
+            "shares": 282075
+        },
+        "CYPRESS SEMICONDUCTOR CORP": {
+            "values": 198354,
+            "shares": 16866866
+        },
+        "CYTORI THERAPEUTICS INC": {
+            "values": 12,
+            "shares": 22400
+        },
+        "D R HORTON INC": {
+            "values": 82110,
+            "shares": 3001105
+        },
+        "DELEK US HLDGS INC": {
+            "values": 25048,
+            "shares": 680273
+        },
+        "DELTA AIR LINES INC DEL": {
+            "values": 31094,
+            "shares": 756904
+        },
+        "DISCOVERY COMMUNICATNS NEW": {
+            "values": 20189,
+            "shares": 607000
+        },
+        "DISH NETWORK CORP": {
+            "values": 87720,
+            "shares": 1295520
+        },
+        "DIRECTV": {
+            "values": 64578,
+            "shares": 695956
+        },
+        "DOW CHEM CO": {
+            "values": 248690,
+            "shares": 4860084
+        },
+        "DRESSER-RAND GROUP INC": {
+            "values": 41630,
+            "shares": 488733
+        },
+        "DYNEGY INC NEW DEL": {
+            "values": 4790,
+            "shares": 1182626
+        },
+        "EQT CORP": {
+            "values": 62210,
+            "shares": 764820
+        },
+        "E TRADE FINANCIAL CORP": {
+            "values": 25808,
+            "shares": 861692
+        },
+        "EASTMAN KODAK CO": {
+            "values": 470,
+            "shares": 40889
+        },
+        "EBAY INC": {
+            "values": 192714,
+            "shares": 3199100
+        },
+        "EDGEWELL PERS CARE CO": {
+            "values": 2538,
+            "shares": 26000
+        },
+        "ENERGEN CORP": {
+            "values": 11775,
+            "shares": 172404
+        },
+        "ENERGIZER HLDGS INC": {
+            "values": 15290,
+            "shares": 116228
+        },
+        "ERICSSON": {
+            "values": 1740,
+            "shares": 166666
+        },
+        "EXA CORP": {
+            "values": 15238,
+            "shares": 1366666
+        },
+        "EXAR CORP": {
+            "values": 25631,
+            "shares": 2620757
+        },
+        "EXTREME NETWORKS INC": {
+            "values": 8376,
+            "shares": 3113884
+        },
+        "FXCM INC": {
+            "values": 193,
+            "shares": 133000
+        },
+        "FACEBOOK INC": {
+            "values": 222252,
+            "shares": 2591407
+        },
+        "58 COM INC": {
+            "values": 307,
+            "shares": 4800
+        },
+        "FINISAR CORP": {
+            "values": 1191,
+            "shares": 66666
+        },
+        "GSI TECHNOLOGY": {
+            "values": 2953,
+            "shares": 566779
+        },
+        "GAMING &amp; LEISURE PPTYS INC": {
+            "values": 45269,
+            "shares": 1234826
+        },
+        "GENERAL MTRS CO": {
+            "values": 37823,
+            "shares": 1134818
+        },
+        "GLOBALSTAR INC": {
+            "values": 1055,
+            "shares": 500000
+        },
+        "GRUPO FINANCIERO GALICIA S A": {
+            "values": 3722,
+            "shares": 198077
+        },
+        "HARVEST NATURAL RESOURCES IN": {
+            "values": 61,
+            "shares": 35000
+        },
+        "HAWAIIAN HOLDINGS INC": {
+            "values": 2526,
+            "shares": 106342
+        },
+        "HOLOGIC INC": {
+            "values": 76829,
+            "shares": 63201000
+        },
+        "HOME DEPOT INC": {
+            "values": 11337,
+            "shares": 102016
+        },
+        "HOMEAWAY INC": {
+            "values": 50752,
+            "shares": 52695000
+        },
+        "HOSPIRA INC": {
+            "values": 15270,
+            "shares": 172139
+        },
+        "IXIA": {
+            "values": 59889,
+            "shares": 59814000
+        },
+        "IDEXX LABS INC": {
+            "values": 1153,
+            "shares": 17974
+        },
+        "INVENSENSE INC": {
+            "values": 58384,
+            "shares": 59550811
+        },
+        "ISHARES TR": {
+            "values": 168638,
+            "shares": 3922400
+        },
+        "JDS UNIPHASE CORP": {
+            "values": 189429,
+            "shares": 124681666
+        },
+        "JD COM INC": {
+            "values": 10415,
+            "shares": 305412
+        },
+        "JUMEI INTL HLDG LTD": {
+            "values": 397,
+            "shares": 17400
+        },
+        "KB HOME": {
+            "values": 6258,
+            "shares": 377000
+        },
+        "KEY ENERGY SVCS INC": {
+            "values": 900,
+            "shares": 500000
+        },
+        "KRAFT FOODS GROUP INC": {
+            "values": 68208,
+            "shares": 801133
+        },
+        "KRISPY KREME DOUGHNUTS INC": {
+            "values": 12375,
+            "shares": 642512
+        },
+        "LATTICE SEMICONDUCTOR CORP": {
+            "values": 59882,
+            "shares": 10166666
+        },
+        "LEAPFROG ENTERPRISES INC": {
+            "values": 18,
+            "shares": 13100
+        },
+        "LENDINGCLUB CORP": {
+            "values": 48675,
+            "shares": 3300000
+        },
+        "LENNAR CORP": {
+            "values": 84861,
+            "shares": 1662650
+        },
+        "LEUCADIA NATL CORP": {
+            "values": 4128,
+            "shares": 170000
+        },
+        "LEVEL 3 COMMUNICATIONS INC": {
+            "values": 109861,
+            "shares": 2085843
+        },
+        "LIBERTY MEDIA CORP DELAWARE": {
+            "values": 12606,
+            "shares": 13200000
+        },
+        "LIONS GATE ENTMNT CORP": {
+            "values": 49622,
+            "shares": 1339320
+        },
+        "LORAL SPACE &amp; COMMUNICATNS I": {
+            "values": 66619,
+            "shares": 1055440
+        },
+        "LOWES COS INC": {
+            "values": 7036,
+            "shares": 105068
+        },
+        "MBIA INC": {
+            "values": 10480,
+            "shares": 1743713
+        },
+        "MGIC INVT CORP WIS": {
+            "values": 17758,
+            "shares": 1560482
+        },
+        "MACK CALI RLTY CORP": {
+            "values": 38063,
+            "shares": 2065251
+        },
+        "MACROGENICS INC": {
+            "values": 740,
+            "shares": 19488
+        },
+        "MARKET VECTORS ETF TR": {
+            "values": 13515,
+            "shares": 761000
+        },
+        "MARTEN TRANS LTD": {
+            "values": 367,
+            "shares": 16900
+        },
+        "MAXLINEAR INC": {
+            "values": 31478,
+            "shares": 2601472
+        },
+        "MAZOR ROBOTICS LTD": {
+            "values": 6849,
+            "shares": 514565
+        },
+        "MCCLATCHY CO": {
+            "values": 13,
+            "shares": 11900
+        },
+        "MEAD JOHNSON NUTRITION CO": {
+            "values": 6315,
+            "shares": 70000
+        },
+        "MELCO CROWN ENTMT LTD": {
+            "values": 377,
+            "shares": 19200
+        },
+        "MICROSEMI CORP": {
+            "values": 9823,
+            "shares": 281066
+        },
+        "MIDSTATES PETE CO INC": {
+            "values": 25,
+            "shares": 26600
+        },
+        "MILLER ENERGY RES INC": {
+            "values": 6,
+            "shares": 15300
+        },
+        "MOLSON COORS BREWING CO": {
+            "values": 1536,
+            "shares": 22000
+        },
+        "MONDELEZ INTL INC": {
+            "values": 55610,
+            "shares": 1351731
+        },
+        "MONSANTO CO NEW": {
+            "values": 123936,
+            "shares": 1162738
+        },
+        "MOTOROLA SOLUTIONS INC": {
+            "values": 54565,
+            "shares": 951609
+        },
+        "NRG ENERGY INC": {
+            "values": 57684,
+            "shares": 2521145
+        },
+        "NETEASE INC": {
+            "values": 377,
+            "shares": 2600
+        },
+        "NEURALSTEM INC": {
+            "values": 35,
+            "shares": 18000
+        },
+        "NEW ORIENTAL ED &amp; TECH GRP I": {
+            "values": 31713,
+            "shares": 1293349
+        },
+        "NEWFIELD EXPL CO": {
+            "values": 39717,
+            "shares": 1099593
+        },
+        "NEXTERA ENERGY INC": {
+            "values": 131603,
+            "shares": 1342473
+        },
+        "NICE SYS LTD": {
+            "values": 65286,
+            "shares": 1026666
+        },
+        "NOBLE ENERGY INC": {
+            "values": 36154,
+            "shares": 847092
+        },
+        "NORANDA ALUM HLDG CORP": {
+            "values": 18,
+            "shares": 20800
+        },
+        "NOVATEL WIRELESS INC": {
+            "values": 6717,
+            "shares": 2066666
+        },
+        "NUANCE COMMUNICATIONS INC": {
+            "values": 175188,
+            "shares": 172281000
+        },
+        "O REILLY AUTOMOTIVE INC NEW": {
+            "values": 7282,
+            "shares": 32224
+        },
+        "OFFICE DEPOT INC": {
+            "values": 7654,
+            "shares": 883838
+        },
+        "OHR PHARMACEUTICAL INC": {
+            "values": 30,
+            "shares": 12100
+        },
+        "ONEOK INC NEW": {
+            "values": 14964,
+            "shares": 379017
+        },
+        "OPKO HEALTH INC": {
+            "values": 3788,
+            "shares": 235600
+        },
+        "PMC-SIERRA INC": {
+            "values": 51931,
+            "shares": 6066666
+        },
+        "PACIRA PHARMACEUTICALS INC": {
+            "values": 37609,
+            "shares": 531800
+        },
+        "PAIN THERAPEUTICS INC": {
+            "values": 38,
+            "shares": 21700
+        },
+        "PEABODY ENERGY CORP": {
+            "values": 2254,
+            "shares": 1029400
+        },
+        "PENN VA CORP": {
+            "values": 26295,
+            "shares": 6003509
+        },
+        "PENNYMAC FINL SVCS INC": {
+            "values": 3395,
+            "shares": 187382
+        },
+        "PETROLEO BRASILEIRO SA PETRO": {
+            "values": 5196,
+            "shares": 636742
+        },
+        "PETROQUEST ENERGY INC": {
+            "values": 25,
+            "shares": 12600
+        },
+        "PIONEER NAT RES CO": {
+            "values": 29393,
+            "shares": 211931
+        },
+        "POLYCOM INC": {
+            "values": 121798,
+            "shares": 10646666
+        },
+        "PRECISION CASTPARTS CORP": {
+            "values": 4497,
+            "shares": 22500
+        },
+        "PULTE GROUP INC": {
+            "values": 63867,
+            "shares": 3169581
+        },
+        "QIHOO 360 TECHNOLOGY CO LTD": {
+            "values": 7944,
+            "shares": 117359
+        },
+        "QUANTUM CORP": {
+            "values": 90603,
+            "shares": 86346666
+        },
+        "QUICKLOGIC CORP": {
+            "values": 19,
+            "shares": 11900
+        },
+        "QUIKSILVER INC": {
+            "values": 215,
+            "shares": 323800
+        },
+        "QUNAR CAYMAN IS LTD": {
+            "values": 57853,
+            "shares": 1350120
+        },
+        "RADIAN GROUP INC": {
+            "values": 39378,
+            "shares": 2099053
+        },
+        "REALOGY HLDGS CORP": {
+            "values": 50925,
+            "shares": 1090000
+        },
+        "RESOLUTE ENERGY CORP": {
+            "values": 18,
+            "shares": 18800
+        },
+        "REYNOLDS AMERICAN INC": {
+            "values": 6408,
+            "shares": 85835
+        },
+        "RICE ENERGY INC": {
+            "values": 7565,
+            "shares": 363200
+        },
+        "ROFIN SINAR TECHNOLOGIES INC": {
+            "values": 2384,
+            "shares": 86373
+        },
+        "ROVI CORP": {
+            "values": 52103,
+            "shares": 3266666
+        },
+        "SBA COMMUNICATIONS CORP": {
+            "values": 7278,
+            "shares": 63300
+        },
+        "SPDR S&amp;P 500 ETF TR": {
+            "values": 2425705,
+            "shares": 11783851
+        },
+        "SPDR SERIES TRUST": {
+            "values": 783,
+            "shares": 16790
+        },
+        "SS&amp;C TECHNOLOGIES HLDGS INC": {
+            "values": 26448,
+            "shares": 423162
+        },
+        "SAGENT PHARMACEUTICALS INC": {
+            "values": 8440,
+            "shares": 347200
+        },
+        "SCHWAB CHARLES CORP NEW": {
+            "values": 63983,
+            "shares": 1959665
+        },
+        "SELECT SECTOR SPDR TR": {
+            "values": 24380,
+            "shares": 1000000
+        },
+        "SIGMA ALDRICH CORP": {
+            "values": 15103,
+            "shares": 108381
+        },
+        "SMART &amp; FINAL STORES INC": {
+            "values": 36916,
+            "shares": 2065796
+        },
+        "SOLARCITY CORP": {
+            "values": 14716,
+            "shares": 274816
+        },
+        "SOUFUN HLDGS LTD": {
+            "values": 11995,
+            "shares": 1426282
+        },
+        "SOUTHWEST AIRLS CO": {
+            "values": 23090,
+            "shares": 697800
+        },
+        "SPEED COMM INC": {
+            "values": 25,
+            "shares": 88700
+        },
+        "STARWOOD PPTY TR INC": {
+            "values": 11324,
+            "shares": 525000
+        },
+        "STMICROELECTRONICS N V": {
+            "values": 5413,
+            "shares": 666666
+        },
+        "SUNEDISON INC": {
+            "values": 40678,
+            "shares": 1360000
+        },
+        "SWIFT ENERGY CO": {
+            "values": 26,
+            "shares": 12900
+        },
+        "T MOBILE US INC": {
+            "values": 25973,
+            "shares": 669923
+        },
+        "TASMAN METALS ORD (CVE)": {
+            "values": 854,
+            "shares": 1666666
+        },
+        "TELECOM ARGENTINA S A": {
+            "values": 2033,
+            "shares": 113000
+        },
+        "TERADATA CORP DEL": {
+            "values": 6167,
+            "shares": 166666
+        },
+        "TEVA PHARMACEUTICAL INDS LTD": {
+            "values": 25018,
+            "shares": 423308
+        },
+        "TEXTRON INC": {
+            "values": 6527,
+            "shares": 146254
+        },
+        "TIM PARTICIPACOES S A": {
+            "values": 3272,
+            "shares": 200000
+        },
+        "TIME WARNER CABLE INC": {
+            "values": 259175,
+            "shares": 1454651
+        },
+        "TOLL BROTHERS INC": {
+            "values": 25358,
+            "shares": 664000
+        },
+        "TOWERSTREAM CORP": {
+            "values": 773,
+            "shares": 431800
+        },
+        "TRANSUNION": {
+            "values": 1255,
+            "shares": 50000
+        },
+        "22ND CENTY GROUP INC": {
+            "values": 16,
+            "shares": 17200
+        },
+        "U S SILICA HLDGS INC": {
+            "values": 17822,
+            "shares": 607020
+        },
+        "UNITED CONTL HLDGS INC": {
+            "values": 69046,
+            "shares": 1302512
+        },
+        "UNITED RENTALS INC": {
+            "values": 6225,
+            "shares": 71044
+        },
+        "VAALCO ENERGY INC": {
+            "values": 27,
+            "shares": 12400
+        },
+        "VALEANT PHARMACEUTICALS INTL": {
+            "values": 2056,
+            "shares": 9254
+        },
+        "VERISK ANALYTICS INC": {
+            "values": 16857,
+            "shares": 231684
+        },
+        "VIOLIN MEMORY INC": {
+            "values": 1021,
+            "shares": 416666
+        },
+        "VIPSHOP HLDGS LTD": {
+            "values": 105666,
+            "shares": 4749048
+        },
+        "VISTA OUTDOOR INC": {
+            "values": 11488,
+            "shares": 255852
+        },
+        "VODAFONE GROUP PLC NEW": {
+            "values": 2843,
+            "shares": 78000
+        },
+        "WALGREENS BOOTS ALLIANCE INC": {
+            "values": 46949,
+            "shares": 556000
+        },
+        "WARREN RES INC": {
+            "values": 15,
+            "shares": 32000
+        },
+        "WAYFAIR INC": {
+            "values": 9322,
+            "shares": 247663
+        },
+        "WEBMD HEALTH CORP": {
+            "values": 245098,
+            "shares": 241780000
+        },
+        "WESTERN REFNG INC": {
+            "values": 67314,
+            "shares": 1543199
+        },
+        "WILLBROS GROUP INC DEL": {
+            "values": 13,
+            "shares": 10100
+        },
+        "XPO LOGISTICS INC": {
+            "values": 21204,
+            "shares": 469330
+        },
+        "YPF SOCIEDAD ANONIMA": {
+            "values": 301684,
+            "shares": 10998308
+        },
+        "YY INC": {
+            "values": 396,
+            "shares": 5700
+        },
+        "YAHOO INC": {
+            "values": 51782,
+            "shares": 1317950
+        },
+        "YOUKU TUDOU INC": {
+            "values": 4397,
+            "shares": 179265
+        },
+        "YUM BRANDS INC": {
+            "values": 59002,
+            "shares": 655000
+        },
+        "ZAYO GROUP HLDGS INC": {
+            "values": 20217,
+            "shares": 786038
+        },
+        "ZOETIS INC": {
+            "values": 132346,
+            "shares": 2744635
+        },
+        "ALLEGION PUB LTD CO": {
+            "values": 52167,
+            "shares": 867430
+        },
+        "ALLERGAN PLC": {
+            "values": 79630,
+            "shares": 189338
+        },
+        "ASSURED GUARANTY LTD": {
+            "values": 20390,
+            "shares": 849924
+        },
+        "CHC GROUP LTD": {
+            "values": 10,
+            "shares": 11700
+        },
+        "ENERGY XXI LTD": {
+            "values": 1315,
+            "shares": 500000
+        },
+        "CHIPMOS TECH BERMUDA LTD": {
+            "values": 29985,
+            "shares": 1372921
+        },
+        "ENDO INTL PLC": {
+            "values": 183178,
+            "shares": 2299781
+        },
+        "ESSENT GROUP LTD": {
+            "values": 122563,
+            "shares": 4481278
+        },
+        "FREESCALE SEMICONDUCTOR LTD": {
+            "values": 13057,
+            "shares": 326666
+        },
+        "HERBALIFE LTD": {
+            "values": 108463,
+            "shares": 1968833
+        },
+        "PARAGON OFFSHORE PLC": {
+            "values": 147,
+            "shares": 134900
+        },
+        "TRAVELPORT WORLDWIDE LTD": {
+            "values": 36517,
+            "shares": 2650000
+        },
+        "VANTAGE DRILLING COMPANY": {
+            "values": 7,
+            "shares": 38100
+        },
+        "PERRIGO CO PLC": {
+            "values": 17125,
+            "shares": 92653
+        },
+        "ADECOAGRO SA": {
+            "values": 238937,
+            "shares": 25915076
+        },
+        "AUDIOCODES LTD": {
+            "values": 906,
+            "shares": 280552
+        },
+        "CHECK POINT SOFTWARE TECH LT": {
+            "values": 358,
+            "shares": 4500
+        },
+        "CLICKSOFTWARE TECHNOLOGIES L": {
+            "values": 39344,
+            "shares": 3130000
+        },
+        "EZCHIP SEMICONDUCTOR LIMITED": {
+            "values": 338,
+            "shares": 21166
+        },
+        "WIX COM LTD": {
+            "values": 8062,
+            "shares": 341310
+        },
+        "AERCAP HOLDINGS NV": {
+            "values": 343,
+            "shares": 7500
+        },
+        "MOBILEYE N V AMSTELVEEN": {
+            "values": 431,
+            "shares": 8100
+        },
+        "LYONDELLBASELL INDUSTRIES N": {
+            "values": 184454,
+            "shares": 1781818
+        },
+        "MYLAN N V": {
+            "values": 10858,
+            "shares": 160000
+        },
+        "NXP SEMICONDUCTORS N V": {
+            "values": 6890,
+            "shares": 70166
+        },
+        "DHT HOLDINGS INC": {
+            "values": 22882,
+            "shares": 2944900
+        }
+    }
+}

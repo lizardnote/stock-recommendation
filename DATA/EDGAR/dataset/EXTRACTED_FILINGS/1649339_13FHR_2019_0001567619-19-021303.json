@@ -1,0 +1,45 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2019-11-14",
+    "period_of_report": "2019-09-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-19-021303-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761919021303/0001567619-19-021303.txt",
+    "filename": "1649339_13FHR_2019_0001567619-19-021303.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 9752,
+            "shares": 8000
+        },
+        "BED BATH &amp; BEYOND INC": {
+            "values": 7980,
+            "shares": 750000
+        },
+        "CANADIAN NAT RES LTD": {
+            "values": 3995,
+            "shares": 150000
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 16560,
+            "shares": 3000000
+        },
+        "NUVECTRA CORP": {
+            "values": 263,
+            "shares": 193491
+        },
+        "SPORTSMANS WHSE HLDGS INC": {
+            "values": 8418,
+            "shares": 1625000
+        },
+        "TAILORED BRANDS INC": {
+            "values": 12650,
+            "shares": 2875000
+        }
+    }
+}

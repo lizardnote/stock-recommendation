@@ -1,0 +1,33 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2016-11-14",
+    "period_of_report": "2016-09-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001140361-16-086026-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000114036116086026/0001140361-16-086026.txt",
+    "filename": "1649339_13FHR_2016_0001140361-16-086026.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 11659,
+            "shares": 15000
+        },
+        "COTY INC": {
+            "values": 12925,
+            "shares": 550000
+        },
+        "GORES HLDGS INC": {
+            "values": 3240,
+            "shares": 300000
+        },
+        "HCA HOLDINGS INC": {
+            "values": 7563,
+            "shares": 100000
+        }
+    }
+}

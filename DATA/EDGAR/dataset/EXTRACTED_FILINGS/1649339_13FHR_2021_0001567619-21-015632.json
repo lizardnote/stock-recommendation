@@ -1,0 +1,97 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2021-08-16",
+    "period_of_report": "2021-06-30",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-21-015632-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761921015632/0001567619-21-015632.txt",
+    "filename": "1649339_13FHR_2021_0001567619-21-015632.txt",
+    "data": {
+        "ALPHABET INC": {
+            "values": 230331,
+            "shares": 91900
+        },
+        "ARK ETF TR": {
+            "values": 30799,
+            "shares": 235500
+        },
+        "CARDINAL HEALTH INC": {
+            "values": 48966,
+            "shares": 857700
+        },
+        "CORECIVIC INC": {
+            "values": 13611,
+            "shares": 1300000
+        },
+        "CVS HEALTH CORP": {
+            "values": 60519,
+            "shares": 725300
+        },
+        "DISCOVERY INC": {
+            "values": 24780,
+            "shares": 855084
+        },
+        "FACEBOOK INC": {
+            "values": 327265,
+            "shares": 941200
+        },
+        "GEO GROUP INC NEW": {
+            "values": 17800,
+            "shares": 2500000
+        },
+        "GOLDEN OCEAN GROUP LTD": {
+            "values": 7728,
+            "shares": 700000
+        },
+        "ISHARES TR": {
+            "values": 280472,
+            "shares": 1943000
+        },
+        "KRAFT HEINZ CO": {
+            "values": 58103,
+            "shares": 1424800
+        },
+        "MARINUS PHARMACEUTICALS INC": {
+            "values": 11213,
+            "shares": 625000
+        },
+        "MCKESSON CORP": {
+            "values": 130502,
+            "shares": 682400
+        },
+        "OVINTIV INC": {
+            "values": 18882,
+            "shares": 600000
+        },
+        "PROSHARES TR": {
+            "values": 9718,
+            "shares": 516100
+        },
+        "SCORPIO TANKERS INC": {
+            "values": 13230,
+            "shares": 600000
+        },
+        "SUNCOKE ENERGY INC": {
+            "values": 11173,
+            "shares": 1564804
+        },
+        "TESLA INC": {
+            "values": 731017,
+            "shares": 1075500
+        },
+        "VY GLOBAL GROWTH": {
+            "values": 2434,
+            "shares": 694550
+        },
+        "WALMART INC": {
+            "values": 53390,
+            "shares": 378600
+        }
+    }
+}

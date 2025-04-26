@@ -1,0 +1,22 @@
+people_num: 100
+
+people_last_name : 'Kim,Lee,Park'
+
+age_low: 20
+age_high: 40
+age_student : 24
+age_regular : 32
+
+experience_coeff: 0.5
+experience_scale: 5
+
+knowledge_mid_high: 0.6
+knowledge_old_high: 0.7
+
+money_low : 500
+money_high : 10000
+
+job_old_invest: 0.6
+
+risk_take_young : 0.8
+risk_take_old : 0.3

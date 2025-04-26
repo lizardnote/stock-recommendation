@@ -1,0 +1,81 @@
+{
+    "cik": "1649339",
+    "company": "Scion Asset Management, LLC",
+    "filing_type": "13F-HR",
+    "filing_date": "2019-02-14",
+    "period_of_report": "2018-12-31",
+    "sic": null,
+    "state_of_inc": "DE",
+    "state_location": "CA",
+    "fiscal_year_end": "1231",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/1649339/0001567619-19-004198-index.html",
+    "htm_filing_link": null,
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/1649339/000156761919004198/0001567619-19-004198.txt",
+    "filename": "1649339_13FHR_2018_0001567619-19-004198.txt",
+    "data": {
+        "ALEXANDER &amp; BALDWIN INC NEW": {
+            "values": 9197,
+            "shares": 500356
+        },
+        "ALPHABET INC": {
+            "values": 8360,
+            "shares": 8000
+        },
+        "ALTABA INC": {
+            "values": 3374,
+            "shares": 58225
+        },
+        "BIOGEN INC": {
+            "values": 3009,
+            "shares": 10000
+        },
+        "CELGENE CORP": {
+            "values": 2884,
+            "shares": 45000
+        },
+        "CLEVELAND CLIFFS INC": {
+            "values": 8012,
+            "shares": 1041934
+        },
+        "COREPOINT LODGING INC": {
+            "values": 11086,
+            "shares": 904984
+        },
+        "DISNEY WALT CO": {
+            "values": 8772,
+            "shares": 80000
+        },
+        "FACEBOOK INC": {
+            "values": 8521,
+            "shares": 65000
+        },
+        "FIVE POINT HOLDINGS LLC": {
+            "values": 9186,
+            "shares": 1323626
+        },
+        "GAMESTOP CORP NEW": {
+            "values": 6775,
+            "shares": 536862
+        },
+        "MCKESSON CORP": {
+            "values": 4419,
+            "shares": 40000
+        },
+        "MOHAWK INDS INC": {
+            "values": 2200,
+            "shares": 18809
+        },
+        "SPORTSMANS WHSE HLDGS INC": {
+            "values": 5334,
+            "shares": 1217869
+        },
+        "TAILORED BRANDS INC": {
+            "values": 8702,
+            "shares": 638005
+        },
+        "WESTERN DIGITAL CORP": {
+            "values": 3697,
+            "shares": 100000
+        }
+    }
+}
