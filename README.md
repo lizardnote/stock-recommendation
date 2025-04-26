@@ -1,6 +1,4 @@
-# stock-recommendation
-
-# Modeling
+# Stock-Recommendation Modeling Using Mydata
 
 ## :page_with_curl: Purpose
 Recommend stocks based on similarity and profitability
