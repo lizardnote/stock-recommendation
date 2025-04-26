@@ -1,7 +1,4 @@
 # stock-recommendation
-Stock-Recommendation Model Using Mydata
-원본 공동 프로젝트: https://github.com/naemamchu/Modeling  
-담당 파트: [데이터 수집/DTW 모델링/문서 작성]
 
 # Modeling
 
@@ -34,3 +31,7 @@ Performance measurement of **_dtw(per) + arima model_** selected as final model
 
 
 **_This project is the result of the Hanium 2022 Mentoring Contest._**
+
+원본 공동 프로젝트: https://github.com/naemamchu/Modeling  
+담당 파트: [데이터 수집/DTW 모델링/문서 작성]
+
