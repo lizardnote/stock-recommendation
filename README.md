@@ -1,5 +1,7 @@
 # stock-recommendation
 Stock-Recommendation Model Using Mydata
+원본 공동 프로젝트: https://github.com/naemamchu/Modeling  
+담당 파트: [데이터 수집/DTW 모델링/문서 작성]
 
 # Modeling
 
